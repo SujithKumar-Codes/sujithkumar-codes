@@ -6,16 +6,6 @@
 
 <br/>
 
-```java
-public class Sujith extends BackendEngineer {
-
-    String[] currentWork   = { "Interning @ Sclera VDMS — Spring Boot · Kafka · Docker" };
-    String[] building      = { "AutoSentry (microservices)", "Phantom Chat (E2EE messaging)" };
-    String[] learning      = { "System Design", "DSA", "Japanese (JLPT N5 certified)" };
-    String   reachMe       = "kumarsujith21911@gmail.com";
-    String   funFact       = "State-level Table Tennis player & cricket enthusiast";
-
-}
 ```
 
 <br/>
