@@ -83,7 +83,7 @@ public class Sujith extends BackendEngineer {
 ## 📈 Contributions
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SujithKumar-Codes&label=Total%20Contributions&color=0e75b6&style=for-the-badge" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujithKumar-Codes&theme=tokyonight" />
 </p>
 
 ---
