@@ -1,21 +1,20 @@
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Sujith%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%20%7C%20%20Distributed%20Systems%20%20%7C%20%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ccccff" />
+
 </div>
 
 <br/>
 
-<div align="center">
-
 ```java
 public class Sujith extends BackendEngineer {
-    
-    String   location      = "Bangalore, India";
-    String   mission       = "Building scalable backend systems and secure applications.";
-    String[] currentFocus  = { "Microservices", "Event-Driven Architecture", "API Design" };
-    String[] learning      = { "System Design", "Data Structures & Algorithms", "Japanese (JLPT N5)" };
-    String   funFact       = "State-level Table Tennis player & cricket enthusiast 🏓🏏";
+
+    String[] currentWork   = { "Interning @ Sclera VDMS — Spring Boot · Kafka · Docker" };
+    String[] building      = { "AutoSentry (microservices)", "Phantom Chat (E2EE messaging)" };
+    String[] learning      = { "System Design", "DSA", "Japanese (JLPT N5 certified)" };
     String   reachMe       = "kumarsujith21911@gmail.com";
-    
+    String   funFact       = "State-level Table Tennis player & cricket enthusiast";
+
 }
 ```
 
