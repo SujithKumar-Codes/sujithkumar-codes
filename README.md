@@ -80,18 +80,11 @@ public class Sujith extends BackendEngineer {
 
 ---
 
-### 📊 &nbsp;GitHub Stats
+## 📈 Contribution Graph
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujithKumar-Codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithKumar-Codes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujithKumar-Codes&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujithKumar-Codes&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
