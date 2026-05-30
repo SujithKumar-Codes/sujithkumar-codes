@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=140&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%20%7C%20%20Distributed%20Systems%20%20%7C%20%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ccccff" />
 </div>
 
 ### 🛠 &nbsp;Tech Stack
