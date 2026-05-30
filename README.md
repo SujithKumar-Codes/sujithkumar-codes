@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <h3>Backend Engineer &nbsp;|&nbsp; Distributed Systems &nbsp;|&nbsp; Full-Stack Developer</h3>
 
