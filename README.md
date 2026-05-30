@@ -4,14 +4,6 @@
 
 </div>
 
-<br/>
-
-```
-
-<br/>
-
----
-
 ### 🛠 &nbsp;Tech Stack
 
 **Languages**
