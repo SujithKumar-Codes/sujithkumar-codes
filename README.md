@@ -80,10 +80,10 @@ public class Sujith extends BackendEngineer {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujithKumar-Codes&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/SujithKumar-Codes" alt="Sujith Kumar's GitHub Contributions" />
 </p>
 
 ---
