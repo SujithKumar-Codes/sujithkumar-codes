@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%20%7C%20%20Distributed%20Systems%20%20%7C%20%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ccccff" />
-</div>
-
 ### 🛠 &nbsp;Tech Stack
 
 **Languages**
@@ -58,6 +54,7 @@
 | 👁 **AlertVision** | Real-time abandoned object detection in video surveillance using YOLOv8 + OSNet person re-identification | Python · YOLOv8 · CUDA |
 | 🧤 **SignSpeak** | Smart gloves converting ISL gestures to speech in real-time using LSTM/GRU on embedded hardware | ESP32-S3 · TFLM · Python · C++ |
 
+---
 
 ### 🌐 &nbsp;Connect with me
 
@@ -68,10 +65,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/__sujix__)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsujith21911@gmail.com)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer"/>
 </div>
