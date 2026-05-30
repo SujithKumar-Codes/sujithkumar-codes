@@ -78,15 +78,6 @@ public class Sujith extends BackendEngineer {
 | 👁 **AlertVision** | Real-time abandoned object detection in video surveillance using YOLOv8 + OSNet person re-identification | Python · YOLOv8 · CUDA |
 | 🧤 **SignSpeak** | Smart gloves converting ISL gestures to speech in real-time using LSTM/GRU on embedded hardware | ESP32-S3 · TFLM · Python · C++ |
 
----
-
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujithKumar-Codes&theme=tokyonight" />
-</p>
-
----
 
 ### 🌐 &nbsp;Connect with me
 
