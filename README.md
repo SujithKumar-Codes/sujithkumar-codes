@@ -1,5 +1,3 @@
-## Sujith Kumar
-
 Backend Engineer | Distributed Systems | Full-Stack Developer
 
 Based in Mangalore, India.
@@ -18,9 +16,9 @@ Backend engineer with hands-on experience building production systems using Spri
 
 ### Projects
 
-**Phantom Chat** — E2EE messaging app implementing the Signal Protocol (X3DH key agreement, blind server architecture). Next.js · Spring Boot · PostgreSQL
-
 **AutoSentry** — Distributed microservices platform for vehicle compliance tracking with Kafka-driven async alerting. Spring Boot · Kafka · Docker · PostgreSQL
+
+**Phantom Chat** — E2EE messaging app implementing the Signal Protocol (X3DH key agreement, blind server architecture). Next.js · Spring Boot · PostgreSQL
 
 **SignSpeak** — Smart gloves converting ISL gestures to speech in real-time, running an on-device ML model. ESP32-S3 · TFLM · Python · C++
 
